@@ -1,0 +1,15 @@
+#card-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100%;
+  justify-content: center;
+  gap: 30px;
+  overflow-x: hidden;
+}
+
+
+.card{
+  margin: 60px;
+  height: auto;
+} 

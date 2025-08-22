@@ -1,0 +1,38 @@
+#card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centers the cards */
+  gap: 20px; /* Adds spacing between cards */
+  padding: 20px;
+}
+.card {
+  width: 6rem;
+  height: 180px; /* Let height be determined by content */
+  margin: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  padding: 4px; /* Small padding inside */
+}
+
+.card img {
+  width: 100%;
+  height: auto; /* Maintain aspect ratio */
+  object-fit: contain; /* Prevent cropping */
+  border-radius: 4px;
+}
+
+.card-body {
+  padding: 4px 0;
+}
+
+.card-title {
+  font-size: 0.7rem; /* Smaller font size */
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0 4px;
+}

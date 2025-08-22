@@ -1,0 +1,11 @@
+
+<div id="card-container">
+  <div class="card" style="width: 10rem;" *ngFor="let musPod of musicPodcast">
+    <img src= {{musPod.image}} class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">{{musPod.Name}}</h5>
+      <div class="audio"></div>
+      <audio controls [src]="musPod.musPod"></audio>
+    </div>
+  </div>
+</div>

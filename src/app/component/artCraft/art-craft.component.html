@@ -1,0 +1,12 @@
+
+<div id="card-container">
+  <div class="card" style="width: 8rem;" *ngFor="let artCraft of artCrafts">
+    <img src= {{artCraft.image}} class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">{{artCraft.Name}}</h5>
+      <h5 class="card-title">{{artCraft.Price}}</h5>
+      <!-- <p class="card-text">{{story.Description}}</p> -->
+      <!-- <a [routerLink]="'/' +  Route.Stories" class="btn btn-primary">Explore More</a> -->
+    </div>
+  </div>
+</div>

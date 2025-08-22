@@ -1,0 +1,8 @@
+<div id="card-container">
+  <div class="card"  [routerLink]="['/' + Route.storyDetails, story.id]" *ngFor="let story of stories">
+    <img [src]="story.image" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">{{story.bookname}}</h5>
+    </div>
+  </div>
+</div>

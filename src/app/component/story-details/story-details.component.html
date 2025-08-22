@@ -1,0 +1,40 @@
+<div id="container">
+  <div id="mainBox" >
+    <div class="headingBox">
+      <div class="left">
+        <img [src]="storyDetails.img" class="card-img-left" alt="....">
+      </div>
+      <div class="right">
+        <div class="rateButton">
+          <button type="button" (click)="doneButtonOn()"
+          [routerLink]="['/storyDetails', storyDetails.id]"
+          [queryParams]="{editMode: true}"
+          class="btn btn-outline-secondary">Rate</button>
+        </div>
+        <div class="heading">
+          <h2>{{storyDetails.title}}</h2>
+          <p>{{storyDetails.genre}}</p>
+          <div class="form-group">
+            <p *ngIf="!editMode">{{storyDetails.rating}}</p>
+            <input type="text" value="{{storyDetails.rating}}" *ngIf="editMode" class="form-control">
+          </div>
+        <div class="doneButton"><!-- when rating is on -->
+          <button type="button" *ngIf="editMode"
+          [routerLink]="['/storyDetails', storyDetails.id]"
+          class="btn btn-outline-secondary">Done</button>
+        </div>
+        </div>
+      </div>
+    </div>
+    <div class="deatilBox">
+      <div class="Summary"> 
+        <h3>Summary</h3>
+        <p>{{storyDetails.summary}}</p>
+      </div>
+      <p><b>Chapter:</b> {{storyDetails.chapter}}</p>
+      <p> <b>Year:</b> {{storyDetails.year}}</p>
+    </div>
+  </div>
+</div>
+
+<!-- *ngFor="let singleStory of storyDetails" -->
