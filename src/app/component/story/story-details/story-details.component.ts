@@ -1,8 +1,8 @@
 import { Component, inject } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { AppRouter } from '../../constant/app-route.contant';
+import { AppRouter } from '../../../constant/app-route.contant';
 import { ActivatedRoute } from '@angular/router';
-import { storyDetailsResponse } from '../../response/storyDetails.response';
+import { storyDetailsResponse } from '../../../response/storyDetails.response';
 
 @Component({
   selector: 'app-story-details',

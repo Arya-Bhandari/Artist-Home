@@ -8,12 +8,12 @@ import { NavBarComponent } from './component/nav-bar/nav-bar.component';
 import { HomeComponent } from './component/home/home.component';
 
 import { RouterModule } from '@angular/router';
-import { StoriesComponent } from './component/stories/stories.component';
+import { StoriesComponent } from './component/story/stories/stories.component';
 import { ArtCraftComponent } from './component/artCraft/art-craft.component';
 import { MusicPodcastComponent } from './component/musicPodcast/music-podcast.component';
 import { HttpClientModule } from '@angular/common/http';
 import { LoginComponent } from './component/login/login.component';
-import { StoryDetailsComponent } from './component/story-details/story-details.component';
+import { StoryDetailsComponent } from './component/story/story-details/story-details.component';
 import { ProfileComponent } from './component/profile/profile.component';
 import { ReactiveFormsModule } from '@angular/forms';
 

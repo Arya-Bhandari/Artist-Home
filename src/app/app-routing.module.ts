@@ -5,8 +5,8 @@ import { ArtCraftComponent } from './component/artCraft/art-craft.component';
 import { HomeComponent } from './component/home/home.component';
 import { LoginComponent } from './component/login/login.component';
 import { MusicPodcastComponent } from './component/musicPodcast/music-podcast.component';
-import { StoriesComponent } from './component/stories/stories.component';
-import { StoryDetailsComponent } from './component/story-details/story-details.component';
+import { StoriesComponent } from './component/story/stories/stories.component';
+import { StoryDetailsComponent } from './component/story/story-details/story-details.component';
 import { ProfileComponent } from './component/profile/profile.component';
 
 
