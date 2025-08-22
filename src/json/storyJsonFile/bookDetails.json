@@ -1,0 +1,224 @@
+{
+  "bookDetails": [
+    {
+      "id": 1,
+      "title": "bookname-1",
+      "author": "Author 1",
+      "genre": "Historical Fiction",
+      "year": 2018,
+      "summary": "Set during a forgotten war, bookname-1 brings lost history to life.",
+      "chapter": 8,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "bookname-2",
+      "author": "Author 2",
+      "genre": "Science Fiction",
+      "year": 2019,
+      "summary": "bookname-2 explores the possibilities of future civilizations and artificial intelligence.",
+      "chapter": 8,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "title": "bookname-3",
+      "author": "Author 3",
+      "genre": "Mystery",
+      "year": 2020,
+      "summary": "In bookname-3, a detective unravels the mystery behind an ancient secret society.",
+      "chapter": 8,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "title": "bookname-4",
+      "author": "Author 4",
+      "genre": "Fantasy",
+      "year": 2021,
+      "summary": "This is a dummy summary for bookname-4. It is an epic tale of adventure and discovery.",
+      "chapter": 8,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "title": "bookname-5",
+      "author": "Author 5",
+      "genre": "Romance",
+      "year": 2020,
+      "summary": "A love story that spans decades and continents, testing the bounds of fate.",
+      "chapter": 7,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "title": "bookname-6",
+      "author": "Author 6",
+      "genre": "Thriller",
+      "year": 2017,
+      "summary": "A fast-paced thriller where nothing is as it seems and danger lurks around every corner.",
+      "chapter": 12,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "title": "bookname-7",
+      "author": "Author 7",
+      "genre": "Drama",
+      "year": 2022,
+      "summary": "A powerful narrative about family, loss, and reconciliation.",
+      "chapter": 10,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "title": "bookname-8",
+      "author": "Author 8",
+      "genre": "Science Fiction",
+      "year": 2016,
+      "summary": "Humanity faces extinction in this gripping tale of survival on a dying planet.",
+      "chapter": 9,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 3
+    },
+    {
+      "id": 9,
+      "title": "bookname-9",
+      "author": "Author 9",
+      "genre": "Fantasy",
+      "year": 2021,
+      "summary": "A young mage must uncover ancient truths to save her world from eternal night.",
+      "chapter": 11,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "title": "bookname-10",
+      "author": "Author 10",
+      "genre": "Historical",
+      "year": 2019,
+      "summary": "Based on true events, this story chronicles the life of an unsung revolutionary.",
+      "chapter": 8,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 4
+    },
+    {
+      "id": 11,
+      "title": "bookname-11",
+      "author": "Author 11",
+      "genre": "Adventure",
+      "year": 2018,
+      "summary": "An adventurer's journal as he treks through the uncharted lands of the South.",
+      "chapter": 6,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 3
+    },
+    {
+      "id": 12,
+      "title": "bookname-12",
+      "author": "Author 12",
+      "genre": "Mystery",
+      "year": 2023,
+      "summary": "A locked-room murder and a trail of clues point to an impossible suspect.",
+      "chapter": 9,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 5
+    },
+    {
+      "id": 13,
+      "title": "bookname-13",
+      "author": "Author 13",
+      "genre": "Crime",
+      "year": 2015,
+      "summary": "The underbelly of a city reveals itself in this gritty crime saga.",
+      "chapter": 10,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 4
+    },
+    {
+      "id": 14,
+      "title": "bookname-14",
+      "author": "Author 14",
+      "genre": "Biography",
+      "year": 2020,
+      "summary": "The rise, fall, and legacy of a misunderstood genius.",
+      "chapter": 5,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 3
+    },
+    {
+      "id": 15,
+      "title": "bookname-15",
+      "author": "Author 15",
+      "genre": "Poetry",
+      "year": 2021,
+      "summary": "A collection of poems that speak to the soul in quiet, profound moments.",
+      "chapter": 4,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 4
+    },
+    {
+      "id": 16,
+      "title": "bookname-16",
+      "author": "Author 16",
+      "genre": "Horror",
+      "year": 2022,
+      "summary": "A haunted mansion, a hidden diary, and a curse that refuses to die.",
+      "chapter": 7,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 5
+    },
+    {
+      "id": 17,
+      "title": "bookname-17",
+      "author": "Author 17",
+      "genre": "Fantasy",
+      "year": 2024,
+      "summary": "A warrior and a scholar must unite against an ancient evil awakening in the north.",
+      "chapter": 9,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 5
+    },
+    {
+      "id": 18,
+      "title": "bookname-18",
+      "author": "Author 18",
+      "genre": "Young Adult",
+      "year": 2020,
+      "summary": "Coming of age in a dystopian society, a teen must decide where her loyalties lie.",
+      "chapter": 8,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 4
+    },
+    {
+      "id": 19,
+      "title": "bookname-19",
+      "author": "Author 19",
+      "genre": "Science",
+      "year": 2021,
+      "summary": "An accessible journey through the mysteries of the cosmos and quantum theory.",
+      "chapter": 6,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 4
+    },
+    {
+      "id": 20,
+      "title": "bookname-20",
+      "author": "Author 20",
+      "genre": "Philosophy",
+      "year": 2023,
+      "summary": "bookname-20 poses bold questions about existence, consciousness, and the nature of truth.",
+      "chapter": 10,
+      "img": "/assets/images-dbJson/Stories.jpg",
+      "rating": 5
+    }
+  ]
+}

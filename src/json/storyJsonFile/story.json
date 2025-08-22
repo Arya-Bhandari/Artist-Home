@@ -1,0 +1,104 @@
+{
+  "story": [
+    {
+      "id": 1,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-1"
+    },
+    {
+      "id": 2,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-2"
+    },
+    {
+      "id": 3,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-3"
+    },
+    {
+      "id": 4,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-4"
+    },
+    {
+      "id": 5,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-5"
+    },
+    {
+      "id": 6,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-6"
+    },
+    {
+      "id": 7,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-7"
+    },
+    {
+      "id": 8,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-8"
+    },
+    {
+      "id": 9,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-9"
+    },
+    {
+      "id": 10,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-10"
+    },
+    {
+      "id": 11,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-11"
+    },
+    {
+      "id": 12,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-12"
+    },
+    {
+      "id": 13,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-13"
+    },
+    {
+      "id": 14,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-14"
+    },
+    {
+      "id": 15,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-15"
+    },
+    {
+      "id": 16,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-16"
+    },
+    {
+      "id": 17,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-17"
+    },
+    {
+      "id": 18,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-18"
+    },
+    {
+      "id": 19,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-19"
+    },
+    {
+      "id": 20,
+      "image": "assets/images-dbJson/BookCover.jpg",
+      "bookname": "bookname-20"
+    }
+  ]
+}

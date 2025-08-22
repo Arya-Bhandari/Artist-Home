@@ -46,7 +46,7 @@ export class StoryDetailsComponent {
   }
   private fetchDataById(id: number) {
     this.httpClient
-      .get<storyDetailsResponse[]>('http://localhost:3000/bookDetails')
+      .get<storyDetailsResponse[]>('http://localhost:3002/bookDetails')
       .subscribe((stories: storyDetailsResponse[]) => {
         const result = stories.find((val) => val.id == id);
         if (result) {

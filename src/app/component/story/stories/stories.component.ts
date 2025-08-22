@@ -25,7 +25,7 @@ export class StoriesComponent {
     this.fetchData();
   }
   private fetchData() {
-    this.httpClient.get<storyResponse[]>('http://localhost:3000/story').subscribe((story: storyResponse[])=>{
+    this.httpClient.get<storyResponse[]>('http://localhost:3001/story').subscribe((story: storyResponse[])=>{
       console.log(story);
       this.stories = story; 
     })

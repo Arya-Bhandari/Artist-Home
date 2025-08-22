@@ -22,7 +22,7 @@ export class MusicPodcastComponent {
 }
 
 private fetchData(){
-  this.httpClient.get<musicPodcastResponse[]>('http://localhost:3000/musicPodcast').subscribe((musPod: musicPodcastResponse[])=>{
+  this.httpClient.get<musicPodcastResponse[]>('http://localhost:3003/musicPodcast').subscribe((musPod: musicPodcastResponse[])=>{
     console.log(musPod);
     this.musicPodcast = musPod;
   })

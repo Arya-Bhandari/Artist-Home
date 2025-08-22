@@ -1,0 +1,64 @@
+{
+  "artCraft": [
+    {
+      "id": 1,
+      "image": "assets/images-dbJson/Art.jpg",
+      "Name": "ArtName-1",
+      "Price": "XXXX Rs"
+    },
+    {
+      "id": 2,
+      "image": "assets/images-dbJson/Art.jpg",
+      "Name": "ArtName-2",
+      "Price": "XXXX Rs"
+    },
+    {
+      "id": 3,
+      "image": "assets/images-dbJson/Art.jpg",
+      "Name": "ArtName-3",
+      "Price": "XXXX Rs"
+    },
+    {
+      "id": 4,
+      "image": "assets/images-dbJson/Art.jpg",
+      "Name": "ArtName-4",
+      "Price": "XXXX Rs"
+    },
+    {
+      "id": 5,
+      "image": "assets/images-dbJson/Art.jpg",
+      "Name": "ArtName-5",
+      "Price": "XXXX Rs"
+    },
+    {
+      "id": 6,
+      "image": "assets/images-dbJson/Art.jpg",
+      "Name": "ArtName-6",
+      "Price": "XXXX Rs"
+    },
+    {
+      "id": 7,
+      "image": "assets/images-dbJson/Art.jpg",
+      "Name": "ArtName-7",
+      "Price": "XXXX Rs"
+    },
+    {
+      "id": 8,
+      "image": "assets/images-dbJson/Art.jpg",
+      "Name": "ArtName-8",
+      "Price": "XXXX Rs"
+    },
+    {
+      "id": 9,
+      "image": "assets/images-dbJson/Art.jpg",
+      "Name": "ArtName-9",
+      "Price": "XXXX Rs"
+    },
+    {
+      "id": 10,
+      "image": "assets/images-dbJson/Art.jpg",
+      "Name": "ArtName-10",
+      "Price": "XXXX Rs"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ export const AppRouter = {
   MusicPodcast: "Music&Podcast",
   Contact: "Contact",
   About: "About",
-  Profil: "Profil",
+  Profile: "Profile",
   Login: "Login",
   storyDetails: "storyDetails"
 }

@@ -18,7 +18,7 @@ const routes: Routes = [
   { path: AppRouter.ArtCraft, component: ArtCraftComponent },
   { path: AppRouter.MusicPodcast, component: MusicPodcastComponent},
   { path: AppRouter.Login, component: LoginComponent},
-  { path: AppRouter.Profil, component: ProfileComponent},
+  { path: AppRouter.Profile, component: ProfileComponent},
   { path: `${AppRouter.storyDetails}/:id`, component: StoryDetailsComponent}
 ];
 
